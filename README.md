@@ -1,1 +1,1 @@
-# canvas-game-jermy-bday-2020
+# canvas-game
